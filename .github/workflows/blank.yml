@@ -38,7 +38,7 @@ jobs:
 
         with:
 
-          github_user_name: PetersnIhmes #Seu usuario
+          github_user_name: PetersonIhmes #Seu usuario
 
           gif_out_path: dist/github-contribution-grid-snake.gif
 
