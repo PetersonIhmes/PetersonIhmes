@@ -15,13 +15,14 @@
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-0D1117?style=for-the-badge&logo=Typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![SASS](https://img.shields.io/badge/SASS-black?style=for-the-badge&logo=SASS&labelColor=0D1117)&nbsp;
-
-
-### Studying in this moment:
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![Styled-Components](https://img.shields.io/badge/-StyledComponents-0D1117?style=for-the-badge&logo=styledcomponents&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![GIT](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117&textColor=0D1117)&nbsp;
+
+
+### Studying in this moment:
+![React-Native](https://img.shields.io/badge/-React.Native-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
